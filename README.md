@@ -73,10 +73,10 @@ Mindset: Build → Improve → Refine
 
 ### 🔹 **[ ] Modern Portfolio Website**
 A clean, responsive and fast portfolio built with a focus on visual clarity and smooth interaction.
-Designed the UI from scratch in Figma and turned it into a component-based React interface.
+Designed the UI from scratch in Figma and turned it into a component-based interface.
 Includes subtle animations, reusable components and mobile-first performance optimization.
 
-Tech: React, Tailwind CSS, JavaScript
+Tech: Tailwind CSS, Vanilla JavaScript
 Highlights: custom design system, component architecture, responsive UI
 
 ### 🔹 **[ ] TaskFlow — Task Management Web App**
