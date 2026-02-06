@@ -109,13 +109,7 @@ Highlights: 3D setup, scene controls, rendering pipeline
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maheerCodes&show_icons=true&hide_border=true&theme=transparent" width="55%" />
-
-<img src="https://streak-stats.demolab.com?user=maheerCodes&hide_border=true&theme=transparent" width="55%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheerCodes&layout=compact&hide_border=true&theme=transparent" width="45%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=maheerCodes&margin-w=10&no-frame=true" width="80%" />
+https://github-readme-stats.vercel.app/api?username=maheerCodes
 
 </div>
 
