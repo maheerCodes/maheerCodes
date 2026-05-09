@@ -9,10 +9,8 @@ Focused on writing solid code, learning deeply and improving with every project.
 <br>
 
 ### 🔹 Full Stack Developer 
-&
 ### 🔹 AI Automation Builder  
 ### 🔹 Building scalable web apps
-&
 ### 🔹 AI agents and automation systems
 
 </div>
