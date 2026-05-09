@@ -8,8 +8,8 @@ Focused on creating scalable systems, AI automation and real-world products.
 
 <br>
 
-### 🔹 Full Stack Developer • AI Automation Engineer
-### 🔹 Building scalable web apps, AI agents and automation systems
+### Full Stack Developer • AI Automation Engineer
+### Building scalable web apps, AI agents and automation systems
 
 </div>
 
@@ -84,6 +84,7 @@ Tech: Tailwind CSS, Vanilla JavaScript.<br>
 Highlights: custom design system, component architecture, responsive UI.
 
 🌐 Live Demo:
+<br>
 📂 Repository:
 
 ### 🔹 **[ ] TaskFlow — Task Management Web App**
@@ -95,6 +96,7 @@ Tech: React, Node.js, Express.js, MongoDB.<br>
 Highlights: CRUD API, clean data flow, structured backend logic.
 
 🌐 Live Demo:
+<br>
 📂 Repository:
 
 ### 🔹 **[ ] ShopLite — Mini E-commerce Platform**
@@ -105,6 +107,7 @@ Tech: React, JavaScript, Tailwind CSS, Node.js, Express.js, MongoDB.<br>
 Highlights: product listing system, shopping cart functionality, responsive design, reusable components, clean state management.
 
 🌐 Live Demo:
+<br>
 📂 Repository:
 
 ### 🔹 **[ ] AI Agent Automation System**
@@ -115,6 +118,7 @@ Tech: n8n, OpenAI API, REST APIs, JavaScript, Webhooks.<br>
 Highlights: multi-agent workflow, automated task execution, API orchestration, scalable automation architecture, real-time workflow control.
 
 🌐 Live Demo:
+<br>
 📂 Repository:
 
 ---
