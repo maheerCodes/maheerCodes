@@ -83,7 +83,7 @@ Includes subtle animations, reusable components and mobile-first performance opt
 Tech: Tailwind CSS, Vanilla JavaScript.<br>
 Highlights: custom design system, component architecture, responsive UI.
 
-🌐 Live Demo:
+🌐 Live Demo: https://github.com/maheerCodes/portfolio-website
 <br>
 📂 Repository: https://github.com/maheerCodes/portfolio-website
 
