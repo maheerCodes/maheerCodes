@@ -31,14 +31,6 @@ Currently working on AI automation, full-stack applications and system design.
 ## 💬 Ask Me About
 Web development, frontend architecture, UI structure.
 
-## 📫 Contact Me
-
-- Email: **maheer.codes@outlook.com**
-- Portfolio: **https://github.com/maheerCodes**
-- Codepen: **https://codepen.io/maheerCodes**  
-- Discord: **https://discord.com/users/maheer.codes**
-- Instagram: **https://www.instagram.com/maheer.codes**
-
 ---
 
 # 🧠 Skill Map  
@@ -55,11 +47,8 @@ Node.js • Express.js
 ### **Database**
 MongoDB • MySQL
 
-### **Tools**
-Figma • Photoshop • Blender • Git
-
-### **Game Engine**
-Unity
+### **AI & Automation**
+n8n • OpenAI API • Workflow Automation
 
 ---
 
@@ -90,7 +79,7 @@ MongoDB schema designed for scalability and future authentication support.
 Tech: React, Node.js, Express.js, MongoDB
 Highlights: CRUD API, clean data flow, structured backend logic
 
-### 🔹 **[ ] ShopLite — Mini E-commerce Frontend**
+### 🔹 **[ ] ShopLite — Mini E-commerce Platform**
 A lightweight e-commerce interface showcasing products, categories and a functional cart.
 Focused on clean UI flow and reusable component patterns.
 Built to demonstrate scalable frontend structure and clear logic.
@@ -98,7 +87,7 @@ Built to demonstrate scalable frontend structure and clear logic.
 Tech: React, CSS3, JavaScript
 Highlights: cart logic, scalable folder structure, product rendering system
 
-### 🔹 **[ ] 3D Web Experiment (Beginner Project)**
+### 🔹 **[ ] AI Agent Automation System**
 A small interactive 3D scene created using Three.js / Spline to explore 3D web fundamentals.
 Includes basic lighting, scene setup and responsive rendering.
 Serves as a base for future advanced 3D UI projects.
@@ -124,3 +113,10 @@ Highlights: 3D setup, scene controls, rendering pipeline
 
 ---
  
+## 📫 Contact Me
+
+- Email: **maheer.codes@outlook.com**
+- Portfolio: **https://github.com/maheerCodes**
+- Codepen: **https://codepen.io/maheerCodes**  
+- Discord: **https://discord.com/users/maheer.codes**
+- Instagram: **https://www.instagram.com/maheer.codes**
