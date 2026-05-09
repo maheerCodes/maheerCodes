@@ -19,17 +19,18 @@ Focused on writing solid code, learning deeply and improving with every project.
 - I focus on creating real-world products, intelligent workflows and modern web experiences.  
 - Currently working on AI automation, full-stack applications and system design.
 
-## 🧭 What I’m Working On
-- My portfolio website  
-- Improving React development workflow  
-- Learning React Native, Node.js and Express.js  
+## 🧭 What I'm Working On
+- Building full-stack web applications
+- Developing AI agent automation workflows
+- Improving system design and scalable architecture
 
-## 🚀 What I’m Looking For
-- Collaboration on GitHub  
-- Guidance and resources for 3D web development  
+## 🚀 Open To
+- Collaboration on open-source projects
+- AI automation and web application development
+- Remote internship and developer opportunities
 
 ## 💬 Ask Me About
-Web development, frontend architecture, UI structure.
+Web development • Full-stack architecture • AI automation • Workflow systems
 
 ---
 
