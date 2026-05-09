@@ -20,7 +20,7 @@ Focused on creating scalable systems, AI automation and real-world products.
 - Currently working on AI automation, full-stack applications and system design.
 
 ## 🧩 Development Philosophy
--I believe in building clean systems, scalable architecture and automation-driven solutions that solve real-world problems.
+- I believe in building clean systems, scalable architecture and automation-driven solutions that solve real-world problems.
 
 ## 🚀 Currently Building
 - AI Agent Automation Framework using n8n  
