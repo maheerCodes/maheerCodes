@@ -19,6 +19,14 @@ Focused on creating scalable systems, AI automation and real-world products.
 - I focus on creating real-world products, intelligent workflows and modern web experiences.  
 - Currently working on AI automation, full-stack applications and system design.
 
+## 🧩 Development Philosophy
+-I believe in building clean systems, scalable architecture and automation-driven solutions that solve real-world problems.
+
+## 🚀 Currently Building
+- AI Agent Automation Framework using n8n  
+- Full-stack productivity applications  
+- Scalable workflow automation systems
+
 ## 🧭 What I'm Working On
 - Building full-stack web applications
 - Developing AI agent automation workflows
