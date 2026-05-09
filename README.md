@@ -85,7 +85,7 @@ Highlights: custom design system, component architecture, responsive UI.
 
 🌐 Live Demo:
 <br>
-📂 Repository:
+📂 Repository: https://github.com/maheerCodes/portfolio-website
 
 ### 🔹 **[ ] TaskFlow — Task Management Web App**
 A minimal task management app with real-time task handling through a Node.js + Express API.
@@ -97,7 +97,7 @@ Highlights: CRUD API, clean data flow, structured backend logic.
 
 🌐 Live Demo:
 <br>
-📂 Repository:
+📂 Repository: https://github.com/maheerCodes/taskflow-app
 
 ### 🔹 **[ ] ShopLite — Mini E-commerce Platform**
 
@@ -108,7 +108,7 @@ Highlights: product listing system, shopping cart functionality, responsive desi
 
 🌐 Live Demo:
 <br>
-📂 Repository:
+📂 Repository: https://github.com/maheerCodes/shoplite-ecommerce
 
 ### 🔹 **[ ] AI Agent Automation System**
 
@@ -119,7 +119,7 @@ Highlights: multi-agent workflow, automated task execution, API orchestration, s
 
 🌐 Live Demo:
 <br>
-📂 Repository:
+📂 Repository: https://github.com/maheerCodes/ai-agent-automation-system
 
 ---
 
