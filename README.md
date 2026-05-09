@@ -3,14 +3,17 @@
 
 ## 👋 Hey, I'm **Sheikh Mohammad Ali Maheer**
 
-🚀 Full Stack Developer & AI Automation Builder  
-💡 Building scalable web apps, AI agents and automation systems.
+Building clean, functional and visually balanced web interfaces.
+Focused on writing solid code, learning deeply and improving with every project.
 
 <br>
 
-### 🔹 Frontend Developer   
-### 🔹 Exploring 3D Web Development  
-### 🔹 Expanding into Full-Stack
+### 🔹 Full Stack Developer 
+&
+### 🔹 AI Automation Builder  
+### 🔹 Building scalable web apps
+&
+### 🔹 AI agents and automation systems
 
 </div>
 
