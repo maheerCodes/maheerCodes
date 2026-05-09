@@ -59,16 +59,16 @@ A clean, responsive and fast portfolio built with a focus on visual clarity and 
 Designed the UI from scratch in Figma and turned it into a component-based interface.
 Includes subtle animations, reusable components and mobile-first performance optimization.
 
-Tech: Tailwind CSS, Vanilla JavaScript
-Highlights: custom design system, component architecture, responsive UI
+Tech: Tailwind CSS, Vanilla JavaScript.<br>
+Highlights: custom design system, component architecture, responsive UI.
 
 ### 🔹 **[ ] TaskFlow — Task Management Web App**
 A minimal task management app with real-time task handling through a Node.js + Express API.
 Frontend built with React using a predictable state structure and clean UX.
 MongoDB schema designed for scalability and future authentication support.
 
-Tech: React, Node.js, Express.js, MongoDB
-Highlights: CRUD API, clean data flow, structured backend logic
+Tech: React, Node.js, Express.js, MongoDB.<br>
+Highlights: CRUD API, clean data flow, structured backend logic.
 
 ### 🔹 **[ ] ShopLite — Mini E-commerce Platform**
 A lightweight e-commerce interface showcasing products, categories and a functional cart.
