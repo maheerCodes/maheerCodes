@@ -52,7 +52,7 @@ n8n • OpenAI API • Workflow Automation
 
 ---
 
-# 🧭 Project Roadmap
+# 🚀 Featured Projects
 
 ### 🔹 **[ ] Modern Portfolio Website**
 A clean, responsive and fast portfolio built with a focus on visual clarity and smooth interaction.
