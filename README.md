@@ -71,20 +71,18 @@ Tech: React, Node.js, Express.js, MongoDB.<br>
 Highlights: CRUD API, clean data flow, structured backend logic.
 
 ### 🔹 **[ ] ShopLite — Mini E-commerce Platform**
-A lightweight e-commerce interface showcasing products, categories and a functional cart.
-Focused on clean UI flow and reusable component patterns.
-Built to demonstrate scalable frontend structure and clear logic.
 
-Tech: React, CSS3, JavaScript
-Highlights: cart logic, scalable folder structure, product rendering system
+A lightweight and modern e-commerce platform focused on clean UI, fast performance and scalable product management. Built with reusable components and optimized user flow for browsing, cart handling and product interaction. Designed to demonstrate real-world frontend architecture and responsive shopping experience.
+
+Tech: React, JavaScript, Tailwind CSS, Node.js, Express.js, MongoDB.<br>
+Highlights: product listing system, shopping cart functionality, responsive design, reusable components, clean state management.
 
 ### 🔹 **[ ] AI Agent Automation System**
-A small interactive 3D scene created using Three.js / Spline to explore 3D web fundamentals.
-Includes basic lighting, scene setup and responsive rendering.
-Serves as a base for future advanced 3D UI projects.
 
-Tech: Three.js / Spline
-Highlights: 3D setup, scene controls, rendering pipeline
+An intelligent automation system designed to coordinate multiple AI agents working together under a central workflow controller. Automates content generation, task execution and data processing using API integrations and workflow orchestration. Built to simulate real-world AI-driven business automation.
+
+Tech: n8n, OpenAI API, REST APIs, JavaScript, Webhooks.<br>
+Highlights: multi-agent workflow, automated task execution, API orchestration, scalable automation architecture, real-time workflow control.
 
 ---
 
