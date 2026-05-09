@@ -8,8 +8,8 @@ Focused on creating scalable systems, AI automation and real-world products.
 
 <br>
 
-### 🔹 Full Stack Developer & AI Automation Builder.
-### 🔹 Building scalable web apps, AI agents and automation systems.
+### 🔹 Full Stack Developer • AI Automation Engineer
+### 🔹 Building scalable web apps, AI agents and automation systems
 
 </div>
 
@@ -21,6 +21,12 @@ Focused on creating scalable systems, AI automation and real-world products.
 
 ## 🧩 Development Philosophy
 - I believe in building clean systems, scalable architecture and automation-driven solutions that solve real-world problems.
+
+## 🧩 Engineering Focus
+- Scalable full-stack architecture
+- AI agent orchestration systems
+- Automation-first product development
+- Clean UI and system design thinking
 
 ## 🚀 Currently Building
 - AI Agent Automation Framework using n8n  
@@ -62,6 +68,9 @@ MongoDB • MySQL
 ### **AI & Automation**
 n8n • OpenAI API • Workflow Automation
 
+### **Architecture**
+REST API Design • Workflow Automation • System Design Basics
+
 ---
 
 # 🚀 Featured Projects
@@ -74,6 +83,9 @@ Includes subtle animations, reusable components and mobile-first performance opt
 Tech: Tailwind CSS, Vanilla JavaScript.<br>
 Highlights: custom design system, component architecture, responsive UI.
 
+🌐 Live Demo:
+📂 Repository:
+
 ### 🔹 **[ ] TaskFlow — Task Management Web App**
 A minimal task management app with real-time task handling through a Node.js + Express API.
 Frontend built with React using a predictable state structure and clean UX.
@@ -82,6 +94,9 @@ MongoDB schema designed for scalability and future authentication support.
 Tech: React, Node.js, Express.js, MongoDB.<br>
 Highlights: CRUD API, clean data flow, structured backend logic.
 
+🌐 Live Demo:
+📂 Repository:
+
 ### 🔹 **[ ] ShopLite — Mini E-commerce Platform**
 
 A lightweight and modern e-commerce platform focused on clean UI, fast performance and scalable product management. Built with reusable components and optimized user flow for browsing, cart handling and product interaction. Designed to demonstrate real-world frontend architecture and responsive shopping experience.
@@ -89,12 +104,18 @@ A lightweight and modern e-commerce platform focused on clean UI, fast performan
 Tech: React, JavaScript, Tailwind CSS, Node.js, Express.js, MongoDB.<br>
 Highlights: product listing system, shopping cart functionality, responsive design, reusable components, clean state management.
 
+🌐 Live Demo:
+📂 Repository:
+
 ### 🔹 **[ ] AI Agent Automation System**
 
 An intelligent automation system designed to coordinate multiple AI agents working together under a central workflow controller. Automates content generation, task execution and data processing using API integrations and workflow orchestration. Built to simulate real-world AI-driven business automation.
 
 Tech: n8n, OpenAI API, REST APIs, JavaScript, Webhooks.<br>
 Highlights: multi-agent workflow, automated task execution, API orchestration, scalable automation architecture, real-time workflow control.
+
+🌐 Live Demo:
+📂 Repository:
 
 ---
 
