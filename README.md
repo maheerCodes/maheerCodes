@@ -30,7 +30,10 @@ Focused on writing solid code, learning deeply and improving with every project.
 - Remote internship and developer opportunities
 
 ## 💬 Ask Me About
-Web development • Full-stack architecture • AI automation • Workflow systems
+- Web development
+- Full-stack architecture
+- AI automation
+- Workflow systems
 
 ---
 
