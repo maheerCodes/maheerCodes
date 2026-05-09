@@ -15,6 +15,10 @@ Focused on writing solid code, learning deeply and improving with every project.
 
 ---
 
+## 🧠 About Me
+I focus on creating real-world products, intelligent workflows and modern web experiences.  
+Currently working on AI automation, full-stack applications and system design.
+
 ## 🧭 What I’m Working On
 - My portfolio website  
 - Improving React development workflow  
