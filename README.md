@@ -55,7 +55,7 @@ n8n • OpenAI API • Workflow Automation
 
 # 🚀 Featured Projects
 
-### 🔹 **[ ] Modern Portfolio Website**
+### 🔹 **[ <span style="color: blue;">✔</span> ] Modern Portfolio Website**
 A clean, responsive and fast portfolio built with a focus on visual clarity and smooth interaction.
 Designed the UI from scratch in Figma and turned it into a component-based interface.
 Includes subtle animations, reusable components and mobile-first performance optimization.
