@@ -106,7 +106,7 @@ A lightweight and modern e-commerce platform focused on clean UI, fast performan
 Tech: React, JavaScript, Tailwind CSS, Node.js, Express.js, MongoDB.<br>
 Highlights: product listing system, shopping cart functionality, responsive design, reusable components, clean state management.
 
-🌐 Live Demo:
+🌐 Live Demo: https://github.com/maheerCodes/shoplite-ecommerce
 <br>
 📂 Repository: https://github.com/maheerCodes/shoplite-ecommerce
 
