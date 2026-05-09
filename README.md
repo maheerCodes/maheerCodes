@@ -3,7 +3,7 @@
 
 ## 👋 Hey, I'm **Sheikh Mohammad Ali Maheer**
 
-Building clean, functional and visually balanced web interfaces.
+Building clean, functional and visually balanced web interfaces.<br>
 Focused on writing solid code, learning deeply and improving with every project.
 
 <br>
