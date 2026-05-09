@@ -52,15 +52,6 @@ n8n • OpenAI API • Workflow Automation
 
 ---
 
-# 🎛 Developer Snapshot
-
-Role: Frontend Developer
-Strength: Clean UI, structured workflow
-Learning: React Native, backend & 3D web
-Mindset: Build → Improve → Refine
-
----
-
 # 🧭 Project Roadmap
 
 ### 🔹 **[ ] Modern Portfolio Website**
