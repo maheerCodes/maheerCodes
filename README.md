@@ -117,9 +117,9 @@ An intelligent automation system designed to coordinate multiple AI agents worki
 Tech: n8n, OpenAI API, REST APIs, JavaScript, Webhooks.<br>
 Highlights: multi-agent workflow, automated task execution, API orchestration, scalable automation architecture, real-time workflow control.
 
-🌐 Live Demo: [https://github.com/maheerCodes/ai-agent-automation-system](https://github.com/maheerCodes/AgentFlow-AI-Automation-System)
+🌐 Live Demo:  https://github.com/maheerCodes/AgentFlow-AI-Automation-System
 <br>
-📂 Repository: [https://github.com/maheerCodes/ai-agent-automation-system](https://github.com/maheerCodes/AgentFlow-AI-Automation-System)
+📂 Repository: https://github.com/maheerCodes/AgentFlow-AI-Automation-System
 
 ---
 
