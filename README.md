@@ -110,16 +110,16 @@ Highlights: product listing system, shopping cart functionality, responsive desi
 <br>
 📂 Repository: https://github.com/maheerCodes/shoplite-ecommerce
 
-### 🔹 **[ ] AI Agent Automation System**
+### 🔹 **[ ] AgentFlow — AI Automation System**
 
 An intelligent automation system designed to coordinate multiple AI agents working together under a central workflow controller. Automates content generation, task execution and data processing using API integrations and workflow orchestration. Built to simulate real-world AI-driven business automation.
 
 Tech: n8n, OpenAI API, REST APIs, JavaScript, Webhooks.<br>
 Highlights: multi-agent workflow, automated task execution, API orchestration, scalable automation architecture, real-time workflow control.
 
-🌐 Live Demo: https://github.com/maheerCodes/ai-agent-automation-system
+🌐 Live Demo: [https://github.com/maheerCodes/ai-agent-automation-system](https://github.com/maheerCodes/AgentFlow-AI-Automation-System)
 <br>
-📂 Repository: https://github.com/maheerCodes/ai-agent-automation-system
+📂 Repository: [https://github.com/maheerCodes/ai-agent-automation-system](https://github.com/maheerCodes/AgentFlow-AI-Automation-System)
 
 ---
 
