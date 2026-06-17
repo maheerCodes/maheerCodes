@@ -135,6 +135,10 @@ Highlights: multi-agent workflow, automated task execution, API orchestration, s
 
 <img src="https://github-profile-trophy.vercel.app/?username=maheerCodes&margin-w=10&no-frame=true" width="80%" />
 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=maheerCodes&label=Profile%20views&color=0e75b6&style=flat" alt="maheerCodes" />
+</p>
+
 </div>
 
 ---
